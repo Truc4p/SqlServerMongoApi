@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0UOSVsIEI++v0+hW+uuJTDBxD9Eoss2ILcD48LkDkOA=",
+  "Source": "SqlServerMongoApi",
+  "BasePath": "_content/SqlServerMongoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
